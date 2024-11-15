@@ -4,7 +4,8 @@ A responsive clone of Netflix's landing page created to practice and showcase fr
 
 ## Project Demo
 
-![Project Preview](images/demo.png)
+![Project Preview](images/demo1.png)
+![Project Preview](images/demo2.png)
 
 ## Features
 
