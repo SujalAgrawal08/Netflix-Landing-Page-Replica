@@ -29,7 +29,7 @@ A responsive clone of Netflix's landing page created to practice and showcase fr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SujalAgrawal08/netflix-landing-page-clone.git
+   git clone https://github.com/SujalAgrawal08/Netflix-Landing-Page-Replica.git
 2. Open the project folder:
    ```bash
    cd netflix-landing-page-clone
